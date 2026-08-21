@@ -22,7 +22,7 @@ O código utiliza como fonte um arquivo Excel contendo dados previamente consoli
 2. Realiza os filtros necessários;
 3. Executa os cálculos definidos para a análise;
 4. Insere os resultados nos campos variáveis do documento;
-5. Gera o briefing preenchido em formato `.docx`.
+5. Gera o briefing.
 
 Dessa forma, a mesma lógica de análise é aplicada independentemente do operador responsável pela geração do documento.
 
@@ -54,4 +54,4 @@ Filtros e cálculos
      ↓
 Preenchimento automático do template
      ↓
-Briefing em formato .docx
+Briefing exportado
